@@ -5,7 +5,7 @@
 *   Номер группы БГУИР: 210901
 *   Email: vadimkurb22@gmail.com
 *   Телефон: +375339999999
-*   Deploy https://kvaslover.github.io/EVT-6-sem/
+*   [Deploy](https://kvaslover.github.io/EVT-6-sem/)
 
 ## Краткое представление
 
@@ -45,7 +45,7 @@ print ("%d" %arr[i]),
 *   **Учебный проект "Онлайн система автовокзала"**
     *   Описание: Разработка backend части онлайн системы с использованием JavaScript, Node.js, React и PostgreSQL.
     *   Использованные навыки: JavaScript, Node.js, React, PostgreSQL, Git, оформление сопроводительной документации в Microsoft Word по ГОСТ.
-    *   [Ссылка на репозиторий]([https://github.com/example/online-shop](https://github.com/KvasLover/BSUIR-Course-work-5-sem))
+    *   [Ссылка на репозиторий](https://github.com/KvasLover/BSUIR-Course-work-5-sem)
 
 ## Образование
 
