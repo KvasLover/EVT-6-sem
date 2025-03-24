@@ -1,5 +1,3 @@
-210901   https://kvaslover.github.io/EVT-6-sem/
-
 # Курбатский Вадим Святославович
 
 ## Контактная информация
@@ -7,7 +5,7 @@
 *   Номер группы БГУИР: 210901
 *   Email: vadimkurb22@gmail.com
 *   Телефон: +375339999999
-*   [Deploy]([https://example.com/labs](https://kvaslover.github.io/EVT-6-sem/))
+*   Deploy https://kvaslover.github.io/EVT-6-sem/
 
 ## Краткое представление
 
