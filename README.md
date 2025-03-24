@@ -38,7 +38,7 @@ print ("Отсортированный массив:")
 for i in range(len(arr)):
 print ("%d" %arr[i]),
 
-text
+
 
 ## Опыт работы
 
